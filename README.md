@@ -22,7 +22,7 @@ Enhanced with caption support for each image, it offers both versatility and pre
 ## Getting started
 
 ```dart
-import 'package:multi_image_layout/multi_image_viewer.dart';
+import 'package:multi_image_layout_plus/multi_image_viewer.dart';
 ```
 
 ### iOS
@@ -44,7 +44,7 @@ You need to ask for storage permission to save an image to the gallery. You can 
 ## Usage
 
 ```dart
-import 'package:multi_image_layout/multi_image_viewer.dart';
+import 'package:multi_image_layout_plus/multi_image_viewer.dart';
 MultiImageViewer(
   images: [
     ImageModel(
