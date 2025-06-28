@@ -1,3 +1,7 @@
+# 0.1.3
+
+- Use ImageGallerySaverPlus instead of ImageGallerySaver for better performance, caching and compatibility with new dart/flutter
+
 # 0.1.2
 
 - Upgrade dependencies
