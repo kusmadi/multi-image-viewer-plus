@@ -1,5 +1,5 @@
 // ignore_for_file: use_build_context_synchronously
-import 'multi_image_layout.dart';
+import 'multi_image_layout_plus.dart';
 import 'dart:ui' as ui;
 
 class GalleryPhotoViewWrapper extends StatefulWidget {
