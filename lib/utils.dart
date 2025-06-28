@@ -1,4 +1,4 @@
-import 'multi_image_layout.dart';
+import 'multi_image_layout_plus.dart';
 
 /// View Image(s)
 void openImage(BuildContext context, final int index, List<String> unitImages,
