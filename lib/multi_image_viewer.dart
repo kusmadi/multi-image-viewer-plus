@@ -1,4 +1,4 @@
-import 'multi_image_layout.dart';
+import 'multi_image_layout_plus.dart';
 
 class MultiImageViewer extends StatelessWidget {
   const MultiImageViewer({
